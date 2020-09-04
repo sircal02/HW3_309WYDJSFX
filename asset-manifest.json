@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/http//sircal02.github.io/HW3_309WYDJSFX/static/css/main.089b62f5.chunk.css",
+    "main.js": "/http//sircal02.github.io/HW3_309WYDJSFX/static/js/main.f063f251.chunk.js",
+    "main.js.map": "/http//sircal02.github.io/HW3_309WYDJSFX/static/js/main.f063f251.chunk.js.map",
+    "runtime-main.js": "/http//sircal02.github.io/HW3_309WYDJSFX/static/js/runtime-main.74f4c6a8.js",
+    "runtime-main.js.map": "/http//sircal02.github.io/HW3_309WYDJSFX/static/js/runtime-main.74f4c6a8.js.map",
+    "static/js/2.d513bc08.chunk.js": "/http//sircal02.github.io/HW3_309WYDJSFX/static/js/2.d513bc08.chunk.js",
+    "static/js/2.d513bc08.chunk.js.map": "/http//sircal02.github.io/HW3_309WYDJSFX/static/js/2.d513bc08.chunk.js.map",
+    "index.html": "/http//sircal02.github.io/HW3_309WYDJSFX/index.html",
+    "precache-manifest.f60caf7bf356e697254633e32f4c7873.js": "/http//sircal02.github.io/HW3_309WYDJSFX/precache-manifest.f60caf7bf356e697254633e32f4c7873.js",
+    "service-worker.js": "/http//sircal02.github.io/HW3_309WYDJSFX/service-worker.js",
+    "static/css/main.089b62f5.chunk.css.map": "/http//sircal02.github.io/HW3_309WYDJSFX/static/css/main.089b62f5.chunk.css.map",
+    "static/js/2.d513bc08.chunk.js.LICENSE.txt": "/http//sircal02.github.io/HW3_309WYDJSFX/static/js/2.d513bc08.chunk.js.LICENSE.txt",
+    "static/media/hulk-1.jpg": "/http//sircal02.github.io/HW3_309WYDJSFX/static/media/hulk-1.5f1cd582.jpg",
+    "static/media/venom-1.jpg": "/http//sircal02.github.io/HW3_309WYDJSFX/static/media/venom-1.294dd39b.jpg",
+    "static/media/venom-2.jpg": "/http//sircal02.github.io/HW3_309WYDJSFX/static/media/venom-2.5eb62fe8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74f4c6a8.js",
+    "static/js/2.d513bc08.chunk.js",
+    "static/css/main.089b62f5.chunk.css",
+    "static/js/main.f063f251.chunk.js"
+  ]
+}
